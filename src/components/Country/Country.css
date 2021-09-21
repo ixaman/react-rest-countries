@@ -1,0 +1,10 @@
+.country img {
+  width: 400px;
+  border-radius: 10px;
+}
+.country {
+  background-color: skyblue;
+  padding-top: 30px;
+  border: 3px solid rgb(195, 45, 195);
+  border-radius: 10px;
+}
